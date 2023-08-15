@@ -1,0 +1,11 @@
+.subNavigation{
+    background-color: #0F1111;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+.columnHover:hover{
+    background-color: rgb(126,193,24);
+    cursor: pointer;
+}
